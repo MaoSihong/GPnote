@@ -1,7 +1,7 @@
 # GPnote
   Phage annotation pipeline taking advantage of protein structure comparison
 # General
-![GPnote Pipeline Overview](./images/Pipeline_overview.png)
+![GPnote Pipeline Overview](./images/GPnote_workflow.png)
 
   We developed a workflow called Gut Phage genome annotation note (GPnote) for phage genome annotation. GPnote is an automated de novo genome annotation pipeline that integrates both the sequence-based and structure-based predictions of gene functions. 
 
