@@ -1,4 +1,4 @@
-<img src="E:\GPnote_master\images\logo.png" alt="logo" style="zoom:25%;" />
+<img src="./images/logo.png" alt="logo" style="zoom:25%;" />
 
 # GPnote - Gut phage annotation note
 
@@ -19,7 +19,7 @@ Xiangye Lab, Tsinghua University
 
 The low annotation rate of gut phages remains a major challenge in gut phage research. We developed a workflow called Gut Phage genome annotation note (GPnote) for phage genome annotation. GPnote is an automated de novo genome annotation pipeline that integrates both the sequence-based and structure-based predictions of gene functions. The overall annotation rate achieved about 57.5% on TGPI dataset (2,241/3,896 genes), much higher than current phage annotation pipelines (Pharokka, cenote-Taker3, multiPhATE2). GPnote significantly improves the functional annotation of phage structural proteins such as major capsid proteins, portal proteins and tail components. 
 
-![workflow](E:\GPnote_master\images\workflow.jpg)
+![workflow](./images/workflow.jpg)
 
 # Workflow
 
